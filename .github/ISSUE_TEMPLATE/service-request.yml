@@ -1,0 +1,62 @@
+name: Service request
+description: Request a scoped creative or short-form editing task.
+title: "Service request: "
+labels:
+  - service-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share only non-sensitive project information. Do not post passwords, payment-account details, private customer data, or credentials.
+  - type: dropdown
+    id: service
+    attributes:
+      label: Service
+      options:
+        - Vertical short-form video edit
+        - Caption or on-screen copy cleanup
+        - Hook and pacing review
+        - Other small creative task
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and source material
+      description: Describe the source files, desired result, and target platform.
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline and timezone
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: Budget in USD
+    validations:
+      required: true
+  - type: dropdown
+    id: payment
+    attributes:
+      label: Preferred payment method
+      options:
+        - PayPal
+        - USDT ERC20
+        - USDT BEP20 / BSC
+        - Discuss before work starts
+    validations:
+      required: true
+  - type: input
+    id: delivery
+    attributes:
+      label: Required delivery format
+      placeholder: "Example: 1080 x 1920 MP4"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: References and notes
