@@ -56,6 +56,12 @@ This self-initiated fictional gaming concept demonstrates mobile-readable hierar
 
 This self-initiated non-AI concept uses manually composed public-domain NASA photography, source notes, high-impact typography, and a politics/business/educational premise. It makes no client or CTR claim.
 
+## Real-Estate Talking-Head Thumbnail Concept
+
+[View the 1280 x 720 real-estate thumbnail](samples/real-estate-thumbnail/)
+
+This self-initiated fictional concept demonstrates a mobile-readable YouTube thumbnail direction for first-time buyer, mortgage-rate, or housing-policy coverage. It uses an original AI-generated presenter and property visual, with documented commercial-use basis. It is not client work and makes no CTR, conversion, or performance claim.
+
 ## Architectural Sketch and Rendering Concept
 
 [View the sketch/rendering comparison](samples/architectural-rendering/)
@@ -74,6 +80,7 @@ This self-initiated, AI-assisted concept shows a fictional courtyard house as a 
 - Small-business logo concepts and export-ready lockups
 - Gaming and entertainment thumbnail concepts
 - Documentary and educational thumbnail concepts
+- Real-estate talking-head thumbnail concepts
 - AI-assisted architectural sketch and rendering concepts
 
 Typical small-job range: USD 10-40. The exact scope, price, deadline, revisions, and delivery format are agreed in writing before work starts.
