@@ -56,6 +56,12 @@ This self-initiated fictional gaming concept demonstrates mobile-readable hierar
 
 This self-initiated non-AI concept uses manually composed public-domain NASA photography, source notes, high-impact typography, and a politics/business/educational premise. It makes no client or CTR claim.
 
+## Architectural Sketch and Rendering Concept
+
+[View the sketch/rendering comparison](samples/architectural-rendering/)
+
+This self-initiated, AI-assisted concept shows a fictional courtyard house as a perspective sketch and a polished visualization. It is clearly labeled as workflow exploration rather than commissioned or manually hand-drawn work.
+
 ## Services
 
 - 15-60 second vertical video editing
@@ -68,6 +74,7 @@ This self-initiated non-AI concept uses manually composed public-domain NASA pho
 - Small-business logo concepts and export-ready lockups
 - Gaming and entertainment thumbnail concepts
 - Documentary and educational thumbnail concepts
+- AI-assisted architectural sketch and rendering concepts
 
 Typical small-job range: USD 10-40. The exact scope, price, deadline, revisions, and delivery format are agreed in writing before work starts.
 
