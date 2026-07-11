@@ -62,6 +62,12 @@ This self-initiated non-AI concept uses manually composed public-domain NASA pho
 
 This self-initiated fictional concept demonstrates a mobile-readable YouTube thumbnail direction for first-time buyer, mortgage-rate, or housing-policy coverage. It uses an original AI-generated presenter and property visual, with documented commercial-use basis. It is not client work and makes no CTR, conversion, or performance claim.
 
+## Robotics and AI Thumbnail Test
+
+[View the 1280 x 720 robot AI thumbnail](samples/robot-ai-thumbnail/)
+
+This spec test responds to a public hiring brief using the form owner's supplied rover photography. The crop, tonal treatment, layout, typography, reticle, and callouts were composed manually; the sample makes no client, CTR, revenue, or performance claim.
+
 ## Architectural Sketch and Rendering Concept
 
 [View the sketch/rendering comparison](samples/architectural-rendering/)
@@ -81,6 +87,7 @@ This self-initiated, AI-assisted concept shows a fictional courtyard house as a 
 - Gaming and entertainment thumbnail concepts
 - Documentary and educational thumbnail concepts
 - Real-estate talking-head thumbnail concepts
+- Robotics, AI, and technology thumbnail concepts
 - AI-assisted architectural sketch and rendering concepts
 
 Typical small-job range: USD 10-40. The exact scope, price, deadline, revisions, and delivery format are agreed in writing before work starts.
