@@ -2,6 +2,21 @@
 
 Short-form editing and content production for creators, technical teams, and small businesses.
 
+## SaaS Product-Motion Spec
+
+[Watch the 17-second Retti product-motion concept](samples/retti-launch-concept/retti-product-motion-spec.mp4)
+
+![Six-frame preview from the Retti product-motion concept](samples/retti-launch-concept/contact-sheet.jpg)
+
+This unsolicited, self-initiated concept responds to a public request for product-launch videos and tool visualizations. It demonstrates an original five-scene narrative, data-interface motion, product-feature visualization, and original sound design. The piece is persistently labeled `UNOFFICIAL CONCEPT`; it is not a commissioned client result, endorsement, or performance claim.
+
+Sample specifications:
+
+- 1920 x 1080 landscape delivery
+- 17 seconds at 30 fps, H.264 with AAC stereo audio
+- Reproducible Python/Pillow/NumPy renderer and local FFmpeg finishing
+- Six-frame visual-QA contact sheet and documented source provenance
+
 ## Vertical Short Sample
 
 [Watch the 23-second MP4](samples/vertical-short/ledger-ten-vertical-short.mp4)
@@ -31,6 +46,22 @@ Sample specifications:
 - Four timed scenes generated without manual timeline editing
 - JSON-driven text fields and accent color
 - Reproducible local render and contact-sheet generation
+
+## AI-Assisted Pixel-Art Intro Concept
+
+[Watch the 4-second motion proof](samples/pixel-art-intro/pixel-art-beauty-motion-proof.mp4)
+
+![Original pixel-art beauty/lifestyle concept frame](samples/pixel-art-intro/pixel-art-beauty-concept-frame.png)
+
+This self-initiated concept demonstrates an original soft-luxury art direction, a fictional character, and a video-ready widescreen composition for a creator intro. The base frame was AI-assisted and the motion proof was rendered locally with FFmpeg. It is demonstration work, not a commissioned client result or a copy of an existing creator's intro.
+
+Sample specifications:
+
+- 1920 x 1080 widescreen motion delivery
+- 4 seconds, 30 fps, H.264 MP4
+- Original fictional character and environment
+- Subtle seamless camera motion for concept review
+- [Production notes and disclosure](samples/pixel-art-intro/)
 
 ## App Store Screenshot Concept
 
@@ -89,15 +120,12 @@ This self-initiated, AI-assisted concept shows a fictional courtyard house as a 
 - Real-estate talking-head thumbnail concepts
 - Robotics, AI, and technology thumbnail concepts
 - AI-assisted architectural sketch and rendering concepts
+- Original AI-assisted character and intro concepts with local motion finishing
 
-Typical small-job range: USD 10-40. The exact scope, price, deadline, revisions, and delivery format are agreed in writing before work starts.
+Paid editing pilots typically start at USD 60. Custom animation, multi-asset packages, and recurring work are quoted after the source material and acceptance criteria are reviewed. The exact scope, price, deadline, revisions, payment timing, and delivery format are agreed in writing before work starts.
 
 ## Request Work
 
-[Open a service request](../../issues/new?template=service-request.yml) with the source material, target platform, deadline, and budget. Do not include passwords, payment-account details, private customer data, or unpublished credentials.
+[Open a service request](https://github.com/mykel1283nelson-hub/fast-turnaround-creative-services/issues/new?template=service-request.yml) with the source material, target platform, deadline, and budget. Do not include passwords, payment-account details, private customer data, or unpublished credentials.
 
-Payment can be arranged through PayPal or direct USDT on an explicitly confirmed network after the written scope is accepted. No payment links, deposits, wallet connections, signatures, or account access are required.
-
-## Related Work
-
-Technical writing and documentation samples: [small-docs-and-technical-writing](https://github.com/220nightmore-spec/small-docs-and-technical-writing)
+Payment can be arranged through a PayPal invoice or another mutually agreed protected method after the written scope is accepted. Never send passwords, payment-account credentials, recovery codes, or private customer data through a service request.
